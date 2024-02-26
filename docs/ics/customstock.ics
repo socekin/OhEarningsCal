@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:-TZF1JJGf4s5SstGRlIPn
+UID:wYnBZ5leo9mwXvHETf2u9
 SUMMARY:苹果 发布财报
-DTSTAMP:20240226T150202Z
+DTSTAMP:20240226T163947Z
 DTSTART;VALUE=DATE:20240201
 DESCRIPTION:财务季度：Dec/2023。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $2.09，当前市值: $2
 	\,815\,363\,743\,920。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cZ5ZhV8mXYUBD_MruOax8
+UID:WSHYk38Z-5qU9iNGVtTyO
 SUMMARY:Unity 盘后发布财报
-DTSTAMP:20240226T150202Z
+DTSTAMP:20240226T163947Z
 DTSTART;VALUE=DATE:20240226
 DESCRIPTION:财务季度：Dec/2023。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.15)，当前市值: $1
-	1\,879\,394\,627。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：
+	1\,788\,190\,062。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：
 	https://www.futunn.com/hk/stock/U-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,13 +38,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7KnLRdXVz-wCgOLZYJL1b
+UID:3bjzHVROMNsB1F3BkLl16
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20240226T150202Z
+DTSTAMP:20240226T163947Z
 DTSTART;VALUE=DATE:20240305
-DESCRIPTION:财务季度：Dec/2023。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.51)，当前市值: $10
-	\,056\,768\,228。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
-	：https://www.futunn.com/hk/stock/NIO-US 
+DESCRIPTION:财务季度：Dec/2023。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.51)，当前市值: $9\
+	,283\,170\,672。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
+	https://www.futunn.com/hk/stock/NIO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
