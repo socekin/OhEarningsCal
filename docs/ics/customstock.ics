@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:sDFAif9W5ZZNQ2i3cM60z
+UID:WPVYFlgeAzv62OzsHc7va
 SUMMARY:Tesla 发布财报
-DTSTAMP:20240522T044014Z
+DTSTAMP:20240522T164223Z
 DTSTART;VALUE=DATE:20240423
 DESCRIPTION:财务季度：Mar/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.35，当前市值: $
 	460\,775\,477\,242。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XEyvyEIMN6vp3Yd-VyrN1
+UID:vkFpU-nz0Xk7k1qmEdBkp
 SUMMARY:苹果 发布财报
-DTSTAMP:20240522T044014Z
+DTSTAMP:20240522T164223Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.51，当前市值: $2
 	\,671\,908\,669\,430。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EBVbIERIb3bKkU7RBPch8
+UID:n_qF8fPi-wKUkt-Csq9gs
 SUMMARY:Unity 发布财报
-DTSTAMP:20240522T044014Z
+DTSTAMP:20240522T164223Z
 DTSTART;VALUE=DATE:20240509
 DESCRIPTION:财务季度：Mar/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.27)，当前市值: $9
 	\,324\,369\,060。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JLy0-Rk4i9EcH4wYF3ew9
+UID:MrvnjMPsu174AIKffKE1E
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240522T044014Z
+DTSTAMP:20240522T164223Z
 DTSTART;VALUE=DATE:20240614
 DESCRIPTION:财务季度：Mar/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.31)，当前市值: $10
-	\,860\,542\,769。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
+	\,922\,959\,682。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
 	：https://www.futunn.com/hk/stock/NIO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
