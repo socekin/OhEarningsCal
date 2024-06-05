@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "ORCL",
       "name": "Oracle Corporation",
-      "marketCap": "$322,098,355,660",
+      "marketCap": "$327,842,749,920",
       "fiscalQuarterEnding": "May/2024",
       "epsForecast": "$1.34",
       "noOfEsts": "11"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "CSAN",
       "name": "Cosan S.A.",
-      "marketCap": "$4,910,089,600",
+      "marketCap": "$4,877,293,200",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -40,9 +40,20 @@
       "time": "time-after-hours",
       "symbol": "YEXT",
       "name": "Yext, Inc.",
-      "marketCap": "$630,578,819",
+      "marketCap": "$623,086,794",
       "fiscalQuarterEnding": "Apr/2024",
       "epsForecast": "$0",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/08/2023",
+      "lastYearEPS": "($0.17)",
+      "time": "time-not-supplied",
+      "symbol": "DDD",
+      "name": "3D Systems Corporation",
+      "marketCap": "$468,353,511",
+      "fiscalQuarterEnding": "Mar/2024",
+      "epsForecast": "($0.11)",
       "noOfEsts": "2"
     },
     {
@@ -51,21 +62,10 @@
       "time": "time-after-hours",
       "symbol": "CVGW",
       "name": "Calavo Growers, Inc.",
-      "marketCap": "$480,073,147",
+      "marketCap": "$459,958,847",
       "fiscalQuarterEnding": "Apr/2024",
       "epsForecast": "$0.31",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "5/08/2023",
-      "lastYearEPS": "($0.17)",
-      "time": "time-not-supplied",
-      "symbol": "DDD",
-      "name": "3D Systems Corporation",
-      "marketCap": "$469,687,852",
-      "fiscalQuarterEnding": "Mar/2024",
-      "epsForecast": "($0.11)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "6/08/2023",
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "QD",
       "name": "Qudian Inc.",
-      "marketCap": "$323,880,585",
+      "marketCap": "$318,198,469",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -161,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "MCAC",
       "name": "Monterey Capital Acquisition Corporation",
-      "marketCap": "$83,055,167",
+      "marketCap": "$83,350,212",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -172,7 +172,7 @@
       "time": "time-after-hours",
       "symbol": "SKIL",
       "name": "Skillsoft Corp.",
-      "marketCap": "$78,187,180",
+      "marketCap": "$81,343,805",
       "fiscalQuarterEnding": "Apr/2024",
       "epsForecast": "($4.88)",
       "noOfEsts": "1"
@@ -238,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "PVL",
       "name": "Permianville Royalty Trust",
-      "marketCap": "$45,210,000",
+      "marketCap": "$44,220,000",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -260,7 +260,7 @@
       "time": "time-after-hours",
       "symbol": "ZDGE",
       "name": "Zedge, Inc.",
-      "marketCap": "$39,888,454",
+      "marketCap": "$39,306,141",
       "fiscalQuarterEnding": "Apr/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -304,7 +304,7 @@
       "time": "time-not-supplied",
       "symbol": "GREE",
       "name": "Greenidge Generation Holdings Inc.",
-      "marketCap": "$25,700,973",
+      "marketCap": "$26,485,736",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "($0.34)",
       "noOfEsts": "1"
@@ -322,22 +322,22 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.05)",
+      "lastYearEPS": "($0.31)",
       "time": "time-not-supplied",
-      "symbol": "GURE",
-      "name": "Gulf Resources, Inc.",
-      "marketCap": "$18,047,228",
+      "symbol": "SPI",
+      "name": "SPI Energy Co., Ltd.",
+      "marketCap": "$18,961,865",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.31)",
+      "lastYearEPS": "($0.05)",
       "time": "time-not-supplied",
-      "symbol": "SPI",
-      "name": "SPI Energy Co., Ltd.",
-      "marketCap": "$18,013,772",
+      "symbol": "GURE",
+      "name": "Gulf Resources, Inc.",
+      "marketCap": "$17,525,632",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -348,7 +348,7 @@
       "time": "time-not-supplied",
       "symbol": "MTR",
       "name": "Mesa Royalty Trust",
-      "marketCap": "$16,772,310",
+      "marketCap": "$16,026,874",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -381,7 +381,7 @@
       "time": "time-not-supplied",
       "symbol": "HUSA",
       "name": "Houston American Energy Corporation",
-      "marketCap": "$14,505,449",
+      "marketCap": "$14,614,513",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -445,22 +445,22 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($99.99)",
       "time": "time-not-supplied",
-      "symbol": "XTIA",
-      "name": "XTI Aerospace, Inc. Common Stock ",
-      "marketCap": "$10,770,051",
+      "symbol": "RNAZ",
+      "name": "TransCode Therapeutics, Inc.",
+      "marketCap": "$10,727,725",
       "fiscalQuarterEnding": "Mar/2024",
-      "epsForecast": "",
+      "epsForecast": "($0.70)",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($99.99)",
       "time": "time-not-supplied",
-      "symbol": "RNAZ",
-      "name": "TransCode Therapeutics, Inc.",
-      "marketCap": "$10,727,725",
+      "symbol": "XTIA",
+      "name": "XTI Aerospace, Inc. Common Stock ",
+      "marketCap": "$10,594,966",
       "fiscalQuarterEnding": "Mar/2024",
-      "epsForecast": "($0.70)",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -491,7 +491,7 @@
       "time": "time-not-supplied",
       "symbol": "TPHS",
       "name": "Trinity Place Holdings Inc.",
-      "marketCap": "$9,222,692",
+      "marketCap": "$9,030,552",
       "fiscalQuarterEnding": "Mar/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -520,17 +520,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.90)",
-      "time": "time-after-hours",
-      "symbol": "MIND",
-      "name": "MIND Technology, Inc.",
-      "marketCap": "$6,101,080",
-      "fiscalQuarterEnding": "Apr/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.17)",
       "time": "time-not-supplied",
       "symbol": "PTIX",
@@ -548,6 +537,17 @@
       "name": "ZW Data Action Technologies Inc.",
       "marketCap": "$5,978,227",
       "fiscalQuarterEnding": "Mar/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.90)",
+      "time": "time-after-hours",
+      "symbol": "MIND",
+      "name": "MIND Technology, Inc.",
+      "marketCap": "$5,833,982",
+      "fiscalQuarterEnding": "Apr/2024",
       "epsForecast": "",
       "noOfEsts": "1"
     },
