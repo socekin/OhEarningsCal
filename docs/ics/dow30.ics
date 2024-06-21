@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:aUPSpTREl2eioGKOhCcPf
+UID:zs_Mv5esAVK7gDYtbQupT
 SUMMARY:赛富时 发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240529
 DESCRIPTION:财务季度：Apr/2024。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.82，当前市值: $2
 	61\,735\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PC5jLPwnfuk4T6rhH56ly
+UID:FKoMkNleJY-Lkv8DPp2Q6
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240627
 DESCRIPTION:财务季度：May/2024。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.86，当前市值: $143\
 	,057\,027\,727。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7wMjNv4K351Q-zojpLn-E
+UID:dWh_DPDzUUYyGdltWInQ5
 SUMMARY:沃尔格林博姿联合公司 盘前发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240627
 DESCRIPTION:财务季度：May/2024。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.68，当前市
 	值: $13\,898\,312\,326。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4B25bkWQ0f_5Dtan_nCdm
+UID:9D1iUNlfYKGwLtKCR2-Gt
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240712
-DESCRIPTION:财务季度：Jun/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.17，当前市值: $55
-	9\,917\,803\,047。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
+DESCRIPTION:财务季度：Jun/2024。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.17，当前市值: $56
+	5\,718\,572\,163。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
 	看：https://www.futunn.com/hk/stock/JPM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:r6K1HZnlOvy1Ih1DUqTAJ
+UID:ubxGnArsEtPLRiFaz7cOQ
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240715
 DESCRIPTION:财务季度：Jun/2024。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $8.88，当前市值: $
 	147\,504\,477\,432。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OYyz8Eva6RUUH24Vssmsn
+UID:cx56mq800K3oznhf6CxAI
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240716
 DESCRIPTION:财务季度：Jun/2024。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $6.70，当前市值:
-	 $450\,279\,990\,242。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
+	 $442\,751\,240\,328。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
 	在富途查看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1i2SNGhzpas2G4baUdldv
+UID:tDhbBawif8SGGTTP8zS_Z
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240717
 DESCRIPTION:财务季度：Jun/2024。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.73，当前市值: $350\
 	,532\,823\,003。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:k34E3jlyOaelNUBbJ0wKq
+UID:eAF7kHEmPlNu-TFL7Wdby
 SUMMARY:美国运通 发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240719
 DESCRIPTION:财务季度：Jun/2024。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $3.22，当前市值: $
-	164\,195\,307\,908。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
+	164\,943\,383\,083。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
 	途查看：https://www.futunn.com/hk/stock/AXP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pFdpy4aC2Spk9a6oGZ-A4
+UID:1PgDY4tiIczdOizcSOqo_
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20240620T164247Z
+DTSTAMP:20240621T044123Z
 DTSTART;VALUE=DATE:20240719
 DESCRIPTION:财务季度：Jun/2024。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $3.23，当前市值: $4
-	7\,660\,394\,676。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
+	7\,747\,412\,165。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
 	看：https://www.futunn.com/hk/stock/TRV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
