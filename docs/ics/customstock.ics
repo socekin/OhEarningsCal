@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:NsArdHQ45QdvDfABGnjaq
+UID:2LBkAs5t9KZYQWfEgehuc
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240625T043958Z
+DTSTAMP:20240625T164230Z
 DTSTART;VALUE=DATE:20240606
 DESCRIPTION:财务季度：Mar/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.31)，当前市值: $10
 	\,215\,568\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HAa-ySnBwYP9bN3nrytZu
+UID:2p0dwaWWqHtyseN0i3EWL
 SUMMARY:Tesla 发布财报
-DTSTAMP:20240625T043958Z
+DTSTAMP:20240625T164230Z
 DTSTART;VALUE=DATE:20240717
-DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.47，当前市值: $
-	583\,654\,790\,522。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.48，当前市值: $
+	582\,283\,436\,170。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
