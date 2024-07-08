@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:_8PpSf0yp9i5p9NmrD1-C
+UID:G_EcT1TPYkRAJmNtH4NX7
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20240708T044117Z
+DTSTAMP:20240708T164258Z
 DTSTART;VALUE=DATE:20240723
 DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.47，当前市值: $
-	785\,786\,043\,587。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	802\,146\,619\,923。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X_jI-OcNVAp-cgYC457Xj
+UID:CNNMRh75UTm5U3GO_ddSY
 SUMMARY:苹果 发布财报
-DTSTAMP:20240708T044117Z
+DTSTAMP:20240708T164258Z
 DTSTART;VALUE=DATE:20240801
 DESCRIPTION:财务季度：Jun/2024。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.33，当前市值: $3
 	\,397\,265\,867\,100。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
