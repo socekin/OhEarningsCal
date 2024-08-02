@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9aXON9jDsj3J7yx75G_GM
+UID:xwr6HTCAAxkw5v3aOIHUj
 SUMMARY:Tesla 发布财报
-DTSTAMP:20240801T164306Z
+DTSTAMP:20240802T044205Z
 DTSTART;VALUE=DATE:20240723
 DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.46，当前市值: $
 	785\,754\,151\,625。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fcoW1_PsNwG8Zn6PTGWfu
+UID:xoHYHr_YqJam7K9MPyPQv
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20240801T164306Z
+DTSTAMP:20240802T044205Z
 DTSTART;VALUE=DATE:20240801
 DESCRIPTION:财务季度：Jun/2024。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.34，当前市值: $3
-	\,355\,097\,141\,600。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
+	\,405\,392\,930\,560。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
 	n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Cz_4jYQ8AOzBo9Q42sqP3
+UID:U9zQnOaRfMc3KLEhICXSA
 SUMMARY:Unity 盘后发布财报
-DTSTAMP:20240801T164306Z
+DTSTAMP:20240802T044205Z
 DTSTART;VALUE=DATE:20240808
 DESCRIPTION:财务季度：Jun/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.44)，当前市值: $6
-	\,320\,233\,963。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
+	\,394\,497\,690。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/U-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
