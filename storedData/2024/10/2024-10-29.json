@@ -75,7 +75,7 @@
       "name": "Pfizer, Inc.",
       "marketCap": "$163,937,488,201",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.62",
+      "epsForecast": "$0.64",
       "noOfEsts": "8"
     },
     {
@@ -130,7 +130,7 @@
       "name": "American Tower Corporation (REIT)",
       "marketCap": "$103,444,574,575",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$2.46",
+      "epsForecast": "$2.45",
       "noOfEsts": "5"
     },
     {
@@ -240,7 +240,7 @@
       "name": "ONEOK, Inc.",
       "marketCap": "$56,550,037,321",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$1.26",
+      "epsForecast": "$1.23",
       "noOfEsts": "6"
     },
     {
@@ -383,7 +383,7 @@
       "name": "Check Point Software Technologies Ltd.",
       "marketCap": "$23,177,431,334",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$1.93",
+      "epsForecast": "$1.94",
       "noOfEsts": "11"
     },
     {
@@ -691,7 +691,7 @@
       "name": "Graphic Packaging Holding Company",
       "marketCap": "$8,952,408,853",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.71",
+      "epsForecast": "$0.70",
       "noOfEsts": "5"
     },
     {
@@ -713,7 +713,7 @@
       "name": "DT Midstream, Inc.",
       "marketCap": "$8,441,917,994",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.96",
+      "epsForecast": "$0.95",
       "noOfEsts": "4"
     },
     {
@@ -1010,7 +1010,7 @@
       "name": "Sonoco Products Company",
       "marketCap": "$5,141,828,005",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$1.47",
+      "epsForecast": "$1.44",
       "noOfEsts": "3"
     },
     {
@@ -1104,7 +1104,7 @@
     {
       "lastYearRptDt": "10/31/2023",
       "lastYearEPS": "$0.78",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "PJT",
       "name": "PJT Partners Inc.",
       "marketCap": "$3,497,993,280",
@@ -1155,17 +1155,6 @@
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.09",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/31/2023",
-      "lastYearEPS": "$1.58",
-      "time": "time-not-supplied",
-      "symbol": "NPO",
-      "name": "Enpro Inc.",
-      "marketCap": "$3,197,985,826",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$1.93",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1377,6 +1366,17 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "10/26/2023",
+      "lastYearEPS": "$1.46",
+      "time": "time-pre-market",
+      "symbol": "HEES",
+      "name": "H&E Equipment Services, Inc.",
+      "marketCap": "$1,864,118,761",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0.97",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "11/02/2023",
       "lastYearEPS": "($0.51)",
       "time": "time-after-hours",
@@ -1408,17 +1408,6 @@
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.36",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "10/31/2023",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "SAFE",
-      "name": "Safehold Inc. New",
-      "marketCap": "$1,683,031,005",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.37",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/23/2023",
@@ -1544,13 +1533,24 @@
     {
       "lastYearRptDt": "10/31/2023",
       "lastYearEPS": "$0.54",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "GIC",
       "name": "Global Industrial Company",
       "marketCap": "$1,305,689,569",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.58",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "10/24/2023",
+      "lastYearEPS": "$0.46",
+      "time": "time-pre-market",
+      "symbol": "XRX",
+      "name": "Xerox Holdings Corporation",
+      "marketCap": "$1,258,237,148",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0.53",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/02/2023",
@@ -1945,8 +1945,8 @@
       "name": "Perfect Corp.",
       "marketCap": "$197,586,421",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.03",
-      "noOfEsts": "1"
+      "epsForecast": "$0.02",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1960,6 +1960,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "11/07/2023",
+      "lastYearEPS": "$0.07",
+      "time": "time-after-hours",
+      "symbol": "FSP",
+      "name": "Franklin Street Properties Corp.",
+      "marketCap": "$180,206,084",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0.03",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "10/31/2023",
       "lastYearEPS": "$0.41",
       "time": "time-not-supplied",
@@ -1968,17 +1979,6 @@
       "marketCap": "$168,098,879",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.58",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.56",
-      "time": "time-not-supplied",
-      "symbol": "WHG",
-      "name": "Westwood Holdings Group Inc",
-      "marketCap": "$150,627,565",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -2072,12 +2072,23 @@
     {
       "lastYearRptDt": "10/31/2023",
       "lastYearEPS": "$0.08",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "BGFV",
       "name": "Big 5 Sporting Goods Corporation",
       "marketCap": "$47,234,439",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "($0.25)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.01",
+      "time": "time-pre-market",
+      "symbol": "ZDGE",
+      "name": "Zedge, Inc.",
+      "marketCap": "$45,293,726",
+      "fiscalQuarterEnding": "Jul/2024",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -2155,6 +2166,17 @@
       "marketCap": "$3,223,643",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/14/2023",
+      "lastYearEPS": "($0.08)",
+      "time": "time-pre-market",
+      "symbol": "SYRA",
+      "name": "Syra Health Corp.",
+      "marketCap": "$3,035,101",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "($0.21)",
       "noOfEsts": "1"
     }
   ]
