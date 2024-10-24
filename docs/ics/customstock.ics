@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:gD_-i02ylhsjm7vDlgS3M
+UID:0xvSjqeE7CsIiT72XHpU-
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20241023T164807Z
+DTSTAMP:20241024T044415Z
 DTSTART;VALUE=DATE:20241023
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.46，当前市值: $
-	699\,147\,054\,822。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	696\,335\,771\,257。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DKsC3lKEPMfV9za-e4ava
+UID:GMI38slmSxppWGfBBTIiv
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20241023T164807Z
+DTSTAMP:20241024T044415Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.54，当前市值: $3
 	\,586\,047\,752\,820。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:U-RV_I2dKKdlLJRo8IW5X
+UID:C8J5WQbJAhCMSjW41aB8E
 SUMMARY:Unity 盘后发布财报
-DTSTAMP:20241023T164807Z
+DTSTAMP:20241024T044415Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.39)，当前市值: $8
 	\,417\,353\,938。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
