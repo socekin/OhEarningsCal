@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8eOcP7hT2XWzv_iwJpUwX
+UID:UWXFlcnizyulcfHladSy3
 SUMMARY:苹果 发布财报
-DTSTAMP:20241128T044643Z
+DTSTAMP:20241128T164824Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.49，当前市值: $3
 	\,434\,766\,589\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:38EESu260ltevidh1PB3L
+UID:HMPwWJmJvWu6cyUHNedLn
 SUMMARY:Unity 发布财报
-DTSTAMP:20241128T044643Z
+DTSTAMP:20241128T164824Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.39)，当前市值: $8
 	\,814\,211\,738。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8ZQSGOcD4yu6FjsOchh3o
+UID:4KovqhyciwCYV2VJlm7n8
 SUMMARY:蔚来 发布财报
-DTSTAMP:20241128T044643Z
+DTSTAMP:20241128T164824Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Sep/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.32)，当前市值: $9\
 	,663\,592\,590。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
