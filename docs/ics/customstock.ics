@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:MJFsnaQ9kE1B9_m6MPGo0
-SUMMARY:Unity 发布财报
-DTSTAMP:20241207T164557Z
-DTSTART;VALUE=DATE:20241107
-DESCRIPTION:财务季度：Sep/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.39)，当前市值: $8
-	\,814\,211\,738。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
-	ttps://www.futunn.com/hk/stock/U-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:AFOFLgnRLwuEguqduZ7cv
+UID:0_tmDNKyHgdmIXdmmpzNB
 SUMMARY:蔚来 发布财报
-DTSTAMP:20241207T164557Z
+DTSTAMP:20241208T044435Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Sep/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.32)，当前市值: $9\
 	,663\,592\,590。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
