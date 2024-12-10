@@ -2,9 +2,9 @@
   "date": "2024-12-09",
   "data": [
     {
-      "lastYearRptDt": "12/11/2023",
-      "lastYearEPS": "$1.05",
-      "time": "time-after-hours",
+      "eps": "$1.15",
+      "surprise": "-2.54",
+      "time": "time-not-supplied",
       "symbol": "ORCL",
       "name": "Oracle Corporation",
       "marketCap": "$531,166,855,920",
@@ -13,20 +13,9 @@
       "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "($0.39)",
+      "surprise": "25",
       "time": "time-not-supplied",
-      "symbol": "BHP",
-      "name": "BHP Group Limited",
-      "marketCap": "$130,306,019,800",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "12/05/2023",
-      "lastYearEPS": "($0.37)",
-      "time": "time-after-hours",
       "symbol": "MDB",
       "name": "MongoDB, Inc.",
       "marketCap": "$25,366,770,503",
@@ -35,9 +24,9 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "12/11/2023",
-      "lastYearEPS": "$4.24",
-      "time": "time-after-hours",
+      "eps": "$4.85",
+      "surprise": "14.39",
+      "time": "time-not-supplied",
       "symbol": "CASY",
       "name": "Caseys General Stores, Inc.",
       "marketCap": "$15,672,965,719",
@@ -46,9 +35,9 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "12/05/2023",
-      "lastYearEPS": "$4.11",
-      "time": "time-after-hours",
+      "eps": "$4.63",
+      "surprise": "7.67",
+      "time": "time-not-supplied",
       "symbol": "TOL",
       "name": "Toll Brothers, Inc.",
       "marketCap": "$15,559,785,200",
@@ -57,9 +46,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "12/05/2023",
-      "lastYearEPS": "$0.40",
-      "time": "time-after-hours",
+      "eps": "$0.59",
+      "surprise": "15.69",
+      "time": "time-not-supplied",
       "symbol": "HQY",
       "name": "HealthEquity, Inc.",
       "marketCap": "$8,750,784,637",
@@ -68,9 +57,9 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "12/07/2023",
-      "lastYearEPS": "($4.60)",
-      "time": "time-after-hours",
+      "eps": "($4.61)",
+      "surprise": "10.31",
+      "time": "time-not-supplied",
       "symbol": "MTN",
       "name": "Vail Resorts, Inc.",
       "marketCap": "$7,148,479,701",
@@ -79,9 +68,9 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "12/06/2023",
-      "lastYearEPS": "($0.59)",
-      "time": "time-after-hours",
+      "eps": "($0.52)",
+      "surprise": "11.86",
+      "time": "time-not-supplied",
       "symbol": "AI",
       "name": "C3.ai, Inc.",
       "marketCap": "$5,147,366,543",
@@ -90,9 +79,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "12/06/2023",
-      "lastYearEPS": "($0.29)",
-      "time": "time-after-hours",
+      "eps": "($0.25)",
+      "surprise": "10.71",
+      "time": "time-not-supplied",
       "symbol": "BRZE",
       "name": "Braze, Inc.",
       "marketCap": "$4,259,042,928",
@@ -101,20 +90,20 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
+      "eps": "$0",
+      "surprise": "N/A",
       "time": "time-not-supplied",
-      "symbol": "AVAL",
-      "name": "Grupo Aval Acciones y Valores S.A.",
-      "marketCap": "$2,540,622,922",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.06",
+      "symbol": "ZUO",
+      "name": "Zuora, Inc.",
+      "marketCap": "$1,511,970,000",
+      "fiscalQuarterEnding": "Oct/2024",
+      "epsForecast": "",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "12/08/2023",
-      "lastYearEPS": "$0.38",
-      "time": "time-pre-market",
+      "eps": "$0.35",
+      "surprise": "52.17",
+      "time": "time-not-supplied",
       "symbol": "MOMO",
       "name": "Hello Group Inc. ",
       "marketCap": "$1,269,663,374",
@@ -123,9 +112,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "12/05/2023",
-      "lastYearEPS": "($0.58)",
-      "time": "time-after-hours",
+      "eps": "($0.25)",
+      "surprise": "13.79",
+      "time": "time-not-supplied",
       "symbol": "PHR",
       "name": "Phreesia, Inc.",
       "marketCap": "$1,255,413,265",
@@ -134,9 +123,9 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "12/07/2023",
-      "lastYearEPS": "($0.13)",
-      "time": "time-after-hours",
+      "eps": "($0.07)",
+      "surprise": "30",
+      "time": "time-not-supplied",
       "symbol": "PL",
       "name": "Planet Labs PBC",
       "marketCap": "$1,220,861,836",
@@ -145,20 +134,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "($0.10)",
+      "surprise": "-266.67",
       "time": "time-not-supplied",
-      "symbol": "PGRU",
-      "name": "PropertyGuru Group Limited",
-      "marketCap": "$1,091,924,549",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "12/05/2023",
-      "lastYearEPS": "N/A",
-      "time": "time-after-hours",
       "symbol": "YEXT",
       "name": "Yext, Inc.",
       "marketCap": "$1,088,605,718",
@@ -167,31 +145,20 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/27/2023",
-      "lastYearEPS": "($0.12)",
+      "eps": "$2.25",
+      "surprise": "N/A",
       "time": "time-not-supplied",
-      "symbol": "AVXL",
-      "name": "Anavex Life Sciences Corp.",
-      "marketCap": "$690,235,508",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($0.17)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.50",
-      "time": "time-after-hours",
       "symbol": "ODC",
       "name": "Oil-Dri Corporation Of America",
       "marketCap": "$496,156,651",
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "12/13/2023",
-      "lastYearEPS": "$0.35",
-      "time": "time-pre-market",
+      "eps": "$0.28",
+      "surprise": "3.7",
+      "time": "time-not-supplied",
       "symbol": "VBNK",
       "name": "VersaBank",
       "marketCap": "$467,619,276",
@@ -200,19 +167,30 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "11/13/2023",
-      "lastYearEPS": "$0.08",
+      "eps": "$1.91",
+      "surprise": "N/A",
       "time": "time-not-supplied",
-      "symbol": "IMMR",
-      "name": "Immersion Corporation",
-      "marketCap": "$278,377,716",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.15",
+      "symbol": "BNED",
+      "name": "Barnes & Noble Education, Inc",
+      "marketCap": "$275,184,378",
+      "fiscalQuarterEnding": "Oct/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.52",
+      "surprise": "-40.23",
+      "time": "time-not-supplied",
+      "symbol": "VIRC",
+      "name": "Virco Manufacturing Corporation",
+      "marketCap": "$265,680,211",
+      "fiscalQuarterEnding": "Oct/2024",
+      "epsForecast": "$0.87",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.21",
+      "eps": "$0.21",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AXR",
       "name": "AMREP Corporation",
@@ -222,20 +200,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
+      "eps": "($0.26)",
+      "surprise": "-136.36",
       "time": "time-not-supplied",
-      "symbol": "EM",
-      "name": "Smart Share Global Limited",
-      "marketCap": "$194,681,462",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "12/07/2023",
-      "lastYearEPS": "($0.07)",
-      "time": "time-after-hours",
       "symbol": "GNSS",
       "name": "Genasys Inc.",
       "marketCap": "$173,955,654",
@@ -244,8 +211,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "12/11/2023",
-      "lastYearEPS": "$0.62",
+      "eps": "$0.62",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "OCCI",
       "name": "OFS Credit Company, Inc.",
@@ -255,9 +222,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "12/14/2023",
-      "lastYearEPS": "($0.23)",
-      "time": "time-after-hours",
+      "eps": "($0.03)",
+      "surprise": "57.14",
+      "time": "time-not-supplied",
       "symbol": "ASYS",
       "name": "Amtech Systems, Inc.",
       "marketCap": "$83,179,950",
@@ -266,169 +233,26 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.05)",
+      "eps": "($0.16)",
+      "surprise": "-33.33",
       "time": "time-not-supplied",
-      "symbol": "MPU",
-      "name": "Mega Matrix Inc.",
-      "marketCap": "$76,332,613",
+      "symbol": "SATX",
+      "name": "SatixFy Communications Ltd.",
+      "marketCap": "$69,815,922",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
+      "epsForecast": "($0.12)",
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.44",
+      "eps": "($4.94)",
+      "surprise": "0.4",
       "time": "time-not-supplied",
-      "symbol": "AIFU",
-      "name": "AIX Inc.",
-      "marketCap": "$65,778,291",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "ZEO",
-      "name": "Zeo Energy Corporation",
-      "marketCap": "$55,397,715",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "12/05/2023",
-      "lastYearEPS": "$9",
-      "time": "time-pre-market",
       "symbol": "RENT",
       "name": "Rent the Runway, Inc.",
       "marketCap": "$48,820,098",
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "($4.96)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.06)",
-      "time": "time-not-supplied",
-      "symbol": "TPCS",
-      "name": "TechPrecision Corporation",
-      "marketCap": "$34,911,615",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "ECDA",
-      "name": "ECD Automotive Design, Inc.",
-      "marketCap": "$33,610,172",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.47)",
-      "time": "time-not-supplied",
-      "symbol": "CGBS",
-      "name": "Crown LNG Holdings Limited",
-      "marketCap": "$21,935,444",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.04",
-      "time": "time-not-supplied",
-      "symbol": "SWAG",
-      "name": "Stran & Company, Inc.",
-      "marketCap": "$19,351,622",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "11/20/2023",
-      "lastYearEPS": "($0.15)",
-      "time": "time-not-supplied",
-      "symbol": "XELB",
-      "name": "Xcel Brands, Inc",
-      "marketCap": "$15,399,518",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($0.11)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.02",
-      "time": "time-not-supplied",
-      "symbol": "SPI",
-      "name": "SPI Energy Co., Ltd.",
-      "marketCap": "$9,898,093",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($99.99)",
-      "time": "time-not-supplied",
-      "symbol": "YYAI",
-      "name": "Connexa Sports Technologies Inc.",
-      "marketCap": "$7,979,962",
-      "fiscalQuarterEnding": "Oct/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.40)",
-      "time": "time-not-supplied",
-      "symbol": "UPXI",
-      "name": "Upexi, Inc.",
-      "marketCap": "$5,745,646",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.44)",
-      "time": "time-not-supplied",
-      "symbol": "CHEK",
-      "name": "Check-Cap Ltd.",
-      "marketCap": "$4,567,116",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.83)",
-      "time": "time-not-supplied",
-      "symbol": "SBET",
-      "name": "SharpLink Gaming, Inc.",
-      "marketCap": "$3,370,229",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.82)",
-      "time": "time-not-supplied",
-      "symbol": "MTEM",
-      "name": "Molecular Templates, Inc.",
-      "marketCap": "$2,733,626",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     }
   ]
 }
