@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9rYIyJ39W5xO-ialyye4t
-SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20250130T044253Z
+UID:oY84P2_hhanEPG10NmEwJ
+SUMMARY:Tesla 发布财报
+DTSTAMP:20250130T164449Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.62，当前市值: $
-	1\,274\,875\,193\,571。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,249\,034\,213\,316。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Z3wMv-rTUg25VBqvjMet5
+UID:haNli70Wkmg34ufBBYmKY
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20250130T044253Z
+DTSTAMP:20250130T164449Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $2.36，当前市值: $3
 	\,601\,495\,987\,980。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FLwIOzvcKPatD0NJ8x4-O
+UID:kRIrBmeuA_Rp-XJ5y2iMc
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20250130T044253Z
+DTSTAMP:20250130T164449Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.88，当前市值: $185
 	\,275\,914\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
