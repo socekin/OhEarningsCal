@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:hldFsCnK0IiDHf1VY9wyh
+UID:SQFBv9Si-9iREO2tX7PhP
 SUMMARY:Tesla 发布财报
-DTSTAMP:20250430T044707Z
+DTSTAMP:20250430T164920Z
 DTSTART;VALUE=DATE:20250422
 DESCRIPTION:财务季度：Mar/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.35，当前市值: $
 	765\,434\,559\,295。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8ibPOefn0X9dTYgjWFiAK
+UID:ME1KRBsp84tDEyVYdyTsE
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20250430T044707Z
+DTSTAMP:20250430T164920Z
 DTSTART;VALUE=DATE:20250501
-DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.60，当前市值: $3
-	\,156\,738\,420\,220。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
+DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.61，当前市值: $3
+	\,172\,812\,038\,330。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
 	n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:p6CXIij0S5j_S-VtDVQAE
+UID:LL8YmFnHMs727Rdbel3rj
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20250430T044707Z
+DTSTAMP:20250430T164920Z
 DTSTART;VALUE=DATE:20250506
 DESCRIPTION:财务季度：Mar/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.75，当前市值: $156
 	\,197\,870\,757。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
