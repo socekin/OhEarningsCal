@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4qWyCcjePqZZn122AtAUd
+UID:-hfye6uul_Jyiz0u9ocbo
 SUMMARY:Tesla 发布财报
-DTSTAMP:20250510T044605Z
+DTSTAMP:20250510T164756Z
 DTSTART;VALUE=DATE:20250422
 DESCRIPTION:财务季度：Mar/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.35，当前市值: $
 	765\,434\,559\,295。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:n0dnqe8Pd3BapL9BvkBCX
+UID:QFRlT_SELe_0LhHpI2NIR
 SUMMARY:苹果 发布财报
-DTSTAMP:20250510T044605Z
+DTSTAMP:20250510T164756Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.61，当前市值: $3
 	\,204\,508\,612\,360。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V5yjn2faxumJ__PdB-2Uv
+UID:0BkrlGXbave1sdMhaJHti
 SUMMARY:AMD 发布财报
-DTSTAMP:20250510T044605Z
+DTSTAMP:20250510T164756Z
 DTSTART;VALUE=DATE:20250506
 DESCRIPTION:财务季度：Mar/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.75，当前市值: $159
 	\,811\,536\,612。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XXsLrBs4wbldWk_y9nzZY
+UID:HatWSr-Kanrz0Rcd6Xwd9
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250510T044605Z
+DTSTAMP:20250510T164756Z
 DTSTART;VALUE=DATE:20250605
 DESCRIPTION:财务季度：Mar/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.22)，当前市值: $8\
 	,894\,122\,768。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
