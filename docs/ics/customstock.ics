@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:YOU4UFPNRfB_c-MrX66Ig
+UID:VU95IDXnASQzF4Uj6ObGD
 SUMMARY:苹果 发布财报
-DTSTAMP:20250523T044651Z
+DTSTAMP:20250523T164846Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.61，当前市值: $3
 	\,204\,508\,612\,360。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:no2eWJsOec86w0w-gLJY-
+UID:vlcwOut7eARpuoCWRyFO0
 SUMMARY:AMD 发布财报
-DTSTAMP:20250523T044651Z
+DTSTAMP:20250523T164846Z
 DTSTART;VALUE=DATE:20250506
 DESCRIPTION:财务季度：Mar/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.75，当前市值: $159
 	\,811\,536\,612。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fgrA3U-RvvhlXrKNO6jn8
+UID:4A60D50KE_mImOQSwgjiU
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20250523T044651Z
+DTSTAMP:20250523T164846Z
 DTSTART;VALUE=DATE:20250603
 DESCRIPTION:财务季度：Mar/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.22)，当前市值: $8\
-	,849\,202\,956。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
+	,714\,443\,520。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
 	https://www.futunn.com/hk/stock/NIO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
