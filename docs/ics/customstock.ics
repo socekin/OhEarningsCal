@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:iGyIXXJy9TnxFo0HcYzRd
+UID:VUVjFEXRzqI-wIXNLRRlv
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20250707T045649Z
+DTSTAMP:20250707T165148Z
 DTSTART;VALUE=DATE:20250723
 DESCRIPTION:财务季度：Jun/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.30，当前市值: $
-	1\,016\,694\,828\,002。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,015\,728\,541\,139。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_PaKF-RTB3LVcY3kAzO5k
+UID:ZiwFgQEnB98TWnzde97y6
 SUMMARY:AMD 发布财报
-DTSTAMP:20250707T045649Z
+DTSTAMP:20250707T165148Z
 DTSTART;VALUE=DATE:20250729
-DESCRIPTION:财务季度：Jun/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.35，当前市值: $224
-	\,596\,909\,091。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
+DESCRIPTION:财务季度：Jun/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.35，当前市值: $223
+	\,607\,852\,532。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
 	：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZutuGDPfzNL1SSyXQbKZI
+UID:o2vpck5p8T_Opcz4yxmRx
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20250707T045649Z
+DTSTAMP:20250707T165148Z
 DTSTART;VALUE=DATE:20250731
 DESCRIPTION:财务季度：Jun/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.42，当前市值: $3
-	\,172\,966\,875\,440。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
+	\,189\,545\,642\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
 	n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
