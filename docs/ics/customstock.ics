@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:n0h-Stm4t-MJTuFw_1x7l
+UID:yZl8hjIe98taFBJrD0jDG
 SUMMARY:Tesla 发布财报
-DTSTAMP:20251003T164601Z
+DTSTAMP:20251004T044242Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.37，当前市值: $
 	1\,406\,295\,715\,604。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:igbXeZw05aoi2p6uNWuMZ
+UID:rmmnkcnj19ypwnADRK55K
 SUMMARY:苹果 发布财报
-DTSTAMP:20251003T164601Z
+DTSTAMP:20251004T044242Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.74，当前市值: $3
 	\,815\,909\,480\,700。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
