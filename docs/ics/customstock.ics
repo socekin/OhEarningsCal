@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:bTiJlGK2y_-U5YMGHSbY6
+UID:HnM69q6zV_bIRT0ElxQ5f
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20251013T044506Z
+DTSTAMP:20251013T164714Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.39，当前市值: $
 	1\,404\,812\,009\,115。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Toyzw_nGvUT8tcIw4fUvO
+UID:GeZEBky0m0RUcPpR0tfFv
 SUMMARY:Hims & Hers 发布财报
-DTSTAMP:20251013T044506Z
+DTSTAMP:20251013T164714Z
 DTSTART;VALUE=DATE:20251103
 DESCRIPTION:财务季度：Sep/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.09
-	，当前市值: $13\,165\,640\,593。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=H
+	，当前市值: $12\,193\,756\,395。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=H
 	IMS \n在富途查看：https://www.futunn.com/hk/stock/HIMS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HtbVbx8PkfOWDVeuoS9v3
+UID:aEa9vevQmTYjkccCruYXp
 SUMMARY:Google 发布财报
-DTSTAMP:20251013T044506Z
+DTSTAMP:20251013T164714Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.29，当前市值:
 	 $2\,921\,063\,820\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:80GoYlA4jBE-gVK-vmnQx
+UID:K0vqkho6hPWj7fS09ZxaE
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20251013T044506Z
+DTSTAMP:20251013T164714Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.97，当前市值: $377
 	\,944\,066\,731。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GonV-OC-CfTG5g7XTHxjz
+UID:WB0dsDQX5R51EjjTHEU9F
 SUMMARY:Rocket Lab 发布财报
-DTSTAMP:20251013T044506Z
+DTSTAMP:20251013T164714Z
 DTSTART;VALUE=DATE:20251111
 DESCRIPTION:财务季度：Sep/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.09
 	)，当前市值: $31\,838\,806\,457。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
