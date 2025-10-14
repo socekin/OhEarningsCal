@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ELFcgkzGlk6AU0PTl3RLZ
+UID:2PC9tg81jPjdJexvgUG4J
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20251014T044402Z
+DTSTAMP:20251014T164822Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.41，当前市值: $
-	1\,333\,690\,861\,113。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,405\,973\,170\,715。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,28 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mw_nycZZ7uIpnhhh3mrds
-SUMMARY:Hims & Hers 发布财报
-DTSTAMP:20251014T044402Z
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:财务季度：Sep/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.09
-	，当前市值: $12\,193\,756\,395。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=H
-	IMS \n在富途查看：https://www.futunn.com/hk/stock/HIMS-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bPWGilt2bw5S9ZBBAZbKY
-SUMMARY:Google 发布财报
-DTSTAMP:20251014T044402Z
-DTSTART;VALUE=DATE:20251104
+UID:jtYrHVU2Z4BhZjXKqzEZg
+SUMMARY:Google 盘后发布财报
+DTSTAMP:20251014T164822Z
+DTSTART;VALUE=DATE:20251029
 DESCRIPTION:财务季度：Sep/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.29，当前市值:
-	 $2\,861\,077\,580\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
+	 $2\,952\,750\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
 	G \n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +38,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TkoWDCOL0x1IQqYBiVrJI
+UID:W_9_BTPVlVAgTwZnt7vW3
+SUMMARY:Hims & Hers 发布财报
+DTSTAMP:20251014T164822Z
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:财务季度：Sep/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.09
+	，当前市值: $12\,370\,051\,668。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=H
+	IMS \n在富途查看：https://www.futunn.com/hk/stock/HIMS-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ZvGKboszdsLigr1VmULN1
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20251014T044402Z
+DTSTAMP:20251014T164822Z
 DTSTART;VALUE=DATE:20251104
-DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.97，当前市值: $348
-	\,749\,108\,766。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
+DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.97，当前市值: $351
+	\,215\,831\,173。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
 	：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9BWEEmPAksC97kBPTG7Bo
+UID:HOF92hoOXSAEGsmVz8lM4
 SUMMARY:Rocket Lab 发布财报
-DTSTAMP:20251014T044402Z
+DTSTAMP:20251014T164822Z
 DTSTART;VALUE=DATE:20251111
 DESCRIPTION:财务季度：Sep/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.09
-	)，当前市值: $30\,803\,398\,117。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
+	)，当前市值: $31\,359\,450\,744。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
 	RKLB \n在富途查看：https://www.futunn.com/hk/stock/RKLB-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
