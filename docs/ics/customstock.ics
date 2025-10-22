@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:p7nVZINmH-iJEYBaAYrqD
+UID:b9IeljlqLo0QBujjMmQBi
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20251021T164725Z
+DTSTAMP:20251022T044618Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.41，当前市值: $
 	1\,443\,162\,596\,405。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5spHVpzrEeDn-QmPlwIXw
+UID:A5bIUUAVGHrbGmb2Ulald
 SUMMARY:Google 盘后发布财报
-DTSTAMP:20251021T164725Z
+DTSTAMP:20251022T044618Z
 DTSTART;VALUE=DATE:20251029
 DESCRIPTION:财务季度：Sep/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.27，当前市值:
 	 $3\,102\,715\,700\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0U0ujQuiTLRxvlH_9vLue
+UID:lbSxUCrKfgJ_6RSzeBfdv
 SUMMARY:Hims & Hers 盘后发布财报
-DTSTAMP:20251021T164725Z
+DTSTAMP:20251022T044618Z
 DTSTART;VALUE=DATE:20251103
 DESCRIPTION:财务季度：Sep/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.09
 	，当前市值: $11\,608\,365\,680。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=H
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-ZnfwecC7BoakZE0HBUFw
+UID:HJP6UWK7BDjIlsugp_e5C
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20251021T164725Z
+DTSTAMP:20251022T044618Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.97，当前市值: $390
 	\,391\,277\,826。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:riT7mfcYCP47T4tAr5NZV
+UID:ahJpXc-0_cvND4bMLWkaw
 SUMMARY:Rocket Lab 发布财报
-DTSTAMP:20251021T164725Z
+DTSTAMP:20251022T044618Z
 DTSTART;VALUE=DATE:20251111
 DESCRIPTION:财务季度：Sep/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.09
 	)，当前市值: $32\,284\,607\,271。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
