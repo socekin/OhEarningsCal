@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:I4W1HrbYOpzdoXo7_5-xA
+UID:uqwGCywG3S_1CcVjEx8Gv
 SUMMARY:Hims & Hers 发布财报
-DTSTAMP:20251129T164711Z
+DTSTAMP:20251130T045430Z
 DTSTART;VALUE=DATE:20251103
 DESCRIPTION:财务季度：Sep/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.09
 	，当前市值: $10\,033\,009\,201。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=H
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ja4n4J5xs2d_SQ494ZwlB
+UID:aSiWzWDSlkJ6LJ-xj6eJ1
 SUMMARY:AMD 发布财报
-DTSTAMP:20251129T164711Z
+DTSTAMP:20251130T045430Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $0.97，当前市值: $405
 	\,792\,064\,434。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sBebuPCoEG9W-aRNOwkoX
+UID:PkwXQe3e5Q_UfmMZbmJXA
 SUMMARY:Rocket Lab 发布财报
-DTSTAMP:20251129T164711Z
+DTSTAMP:20251130T045430Z
 DTSTART;VALUE=DATE:20251110
 DESCRIPTION:财务季度：Sep/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.09
 	)，当前市值: $24\,878\,561\,505。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
