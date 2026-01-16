@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:grPyMZyUQYDYxvMes-7bP
+UID:vAZV2xq4fpHozGqlW2VO9
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260115T170357Z
+DTSTAMP:20260116T045838Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.32，当前市值: $
 	1\,460\,699\,778\,146。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_0IoQwpXvyL1wmUM9rxWH
+UID:RxVSGdT_Hr7dMre2majIE
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20260115T170357Z
+DTSTAMP:20260116T045838Z
 DTSTART;VALUE=DATE:20260203
-DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $1.10，当前市值: $359
-	\,748\,339\,094。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
+DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $1.10，当前市值: $364
+	\,030\,088\,344。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
 	：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T2dIFxlUddiStTk7S0LRJ
+UID:GAWjrXEWhKkk76Du6uUn2
 SUMMARY:Google 盘后发布财报
-DTSTAMP:20260115T170357Z
+DTSTAMP:20260116T045838Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.59，当前市值:
 	 $4\,052\,581\,280\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
