@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:31ShlvBeeqnBmCI_leiot
+UID:_Z8H3EWHpL5AUUfGHsbSf
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260129T170830Z
+DTSTAMP:20260130T053247Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.33，当前市值: $
 	1\,433\,095\,479\,060。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Qj5R9QV4NP9Lu-Mv_Eehn
+UID:IjlfkoT3qzI5k1wsodPK8
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20260129T170830Z
+DTSTAMP:20260130T053247Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $1.12，当前市值: $411
 	\,471\,218\,820。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T0ScVmvJXL8HbmNJrLpul
+UID:USzy1d-fwGUzX3LGI-tP2
 SUMMARY:Google 盘后发布财报
-DTSTAMP:20260129T170830Z
+DTSTAMP:20260130T053247Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.58，当前市值:
 	 $4\,054\,632\,670\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:edQtZTHt3tds-h977gSSi
+UID:88roCK9fOxVVioWh-Sx1E
 SUMMARY:Hims & Hers 发布财报
-DTSTAMP:20260129T170830Z
+DTSTAMP:20260130T053247Z
 DTSTART;VALUE=DATE:20260223
 DESCRIPTION:财务季度：Dec/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.04
 	，当前市值: $6\,526\,682\,896。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HI
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SN73Lp9gNPzH_epxP7ccb
+UID:gcJ0xijIrVVhRHT6fXW_e
 SUMMARY:Rocket Lab 盘后发布财报
-DTSTAMP:20260129T170830Z
+DTSTAMP:20260130T053247Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Dec/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.08
 	)，当前市值: $47\,310\,226\,414。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
