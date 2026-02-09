@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:JbzYZhlbydZfj70X1GSnT
+UID:8z20rFIaEqfZ6ZhEu-V2R
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260209T055208Z
+DTSTAMP:20260209T172848Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.33，当前市值: $
 	1\,433\,095\,479\,060。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:srB2Mc8PWcwMaOjZr1kti
+UID:Ng1TlbLV7BKYMvkzOakwB
 SUMMARY:AMD 发布财报
-DTSTAMP:20260209T055208Z
+DTSTAMP:20260209T172848Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $1.11，当前市值: $394
 	\,165\,137\,249。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:woMN1AN3u-7k2pQ5I2tay
+UID:USbB8e_mSlIGcgdpMY08c
 SUMMARY:Google 盘后发布财报
-DTSTAMP:20260209T055208Z
+DTSTAMP:20260209T172848Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.58，当前市值:
 	 $4\,099\,280\,570\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ghlX7EkXIBSVgi35Jf43M
+UID:U0qnkC9Cbz8iLRcoI7P5l
 SUMMARY:Hims & Hers 盘后发布财报
-DTSTAMP:20260209T055208Z
+DTSTAMP:20260209T172848Z
 DTSTART;VALUE=DATE:20260223
 DESCRIPTION:财务季度：Dec/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.04
-	，当前市值: $5\,345\,187\,109。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HI
+	，当前市值: $5\,240\,468\,792。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HI
 	MS \n在富途查看：https://www.futunn.com/hk/stock/HIMS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:w9tUr7vj6Z71O3_gj0yo8
+UID:Qxf2n56Cpl293n_-f56Lu
 SUMMARY:Rocket Lab 盘后发布财报
-DTSTAMP:20260209T055208Z
+DTSTAMP:20260209T172848Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Dec/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.08
-	)，当前市值: $35\,425\,248\,005。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
+	)，当前市值: $38\,630\,186\,003。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
 	RKLB \n在富途查看：https://www.futunn.com/hk/stock/RKLB-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
