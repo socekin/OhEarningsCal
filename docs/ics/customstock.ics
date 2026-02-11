@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:9nVjqrBv8p-I6Hl8iwltM
+UID:dQfv1sJTUNBt70WTivERD
 SUMMARY:Tesla 盘后发布财报
-DTSTAMP:20260210T173558Z
+DTSTAMP:20260211T055318Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：Tesla，行业: 汽车。\n预计每股收益: $0.33，当前市值: $
 	1\,433\,095\,479\,060。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mHweK8vsUj_YXoGFZ9PhI
+UID:G_YTeWLfK8mhg-7GRCZAE
 SUMMARY:AMD 发布财报
-DTSTAMP:20260210T173558Z
+DTSTAMP:20260211T055318Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: AI。\n预计每股收益: $1.11，当前市值: $394
 	\,165\,137\,249。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:57Q8_GHN9C6wALWaEGY5v
+UID:YKGveA7vYPUe8krJTRwf8
 SUMMARY:Google 盘后发布财报
-DTSTAMP:20260210T173558Z
+DTSTAMP:20260211T055318Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：Google，行业: 互联网。\n预计每股收益: $2.58，当前市值:
 	 $4\,099\,280\,570\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOO
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9oro0WpxXs7Dm6Cmm2rgC
+UID:WCU0kKgP9WTgq-eeNSIew
 SUMMARY:Hims & Hers 盘后发布财报
-DTSTAMP:20260210T173558Z
+DTSTAMP:20260211T055318Z
 DTSTART;VALUE=DATE:20260223
 DESCRIPTION:财务季度：Dec/2025。\n代码：HIMS，公司：Hims & Hers，行业: 医疗保健。\n预计每股收益: $0.04
 	，当前市值: $4\,400\,445\,776。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HI
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-YN-0QWF70ulBEntVm_lm
+UID:Qa0g1DmilncFnXVg_Wpma
 SUMMARY:Rocket Lab 盘后发布财报
-DTSTAMP:20260210T173558Z
+DTSTAMP:20260211T055318Z
 DTSTART;VALUE=DATE:20260226
 DESCRIPTION:财务季度：Dec/2025。\n代码：RKLB，公司：Rocket Lab，行业: 航天航空。\n预计每股收益: ($0.08
-	)，当前市值: $38\,630\,186\,003。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
+	)，当前市值: $40\,510\,416\,295。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
 	RKLB \n在富途查看：https://www.futunn.com/hk/stock/RKLB-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
